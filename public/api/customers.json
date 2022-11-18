@@ -1,0 +1,20 @@
+{
+  "customers": [
+    { "id": 1, "name": "jack", "purchase": 170, "month": "Jan" },
+    { "id": 2, "name": "jack", "purchase": 49, "month": "Feb" },
+    { "id": 4, "name": "Alis", "purchase": 90, "month": "Mar" },
+    { "id": 5, "name": "Alis", "purchase": 120, "month": "Jan" },
+    { "id": 6, "name": "James", "purchase": 150, "month": "Feb" },
+    { "id": 7, "name": "Alis", "purchase": 90, "month": "Mar" },
+    { "id": 8, "name": "jack", "purchase": 120, "month": "Jan" },
+    { "id": 9, "name": "James", "purchase": 32, "month": "Feb" },
+    { "id": 10, "name": "Alis", "purchase": 90, "month": "Mar" },
+    { "id": 11, "name": "James", "purchase": 120, "month": "Jan" },
+    { "id": 12, "name": "James", "purchase": 48, "month": "Feb" },
+    { "id": 13, "name": "Alis", "purchase": 130, "month": "Feb" },
+    { "id": 14, "name": "jack", "purchase": 90, "month": "Mar" },
+    { "id": 15, "name": "Alis", "purchase": 120, "month": "Jan" },
+    { "id": 16, "name": "James", "purchase": 150, "month": "Feb" },
+    { "id": 17, "name": "Alis", "purchase": 110, "month": "Mar" }
+  ]
+}
